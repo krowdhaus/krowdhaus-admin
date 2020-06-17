@@ -39,9 +39,6 @@ export default {
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
     '@nuxtjs/tailwindcss'
   ],
-  generate: {
-    dir: 'public'
-  },
   /*
    ** Nuxt.js modules
    */
